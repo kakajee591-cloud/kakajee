@@ -1,0 +1,60 @@
+﻿category,type,name,description,metal,gemstones,price,image_url
+Ladies,Ring,The Empress Solitaire,Classic round brilliant diamond set in platinum,Platinum,Diamond (3.2ct),45000,https://images.unsplash.com/photo-1605100804763-247f2b7d1c5b?w=600&auto=format
+Ladies,Ring,Sapphire Halo,Kashmir sapphire surrounded by diamonds,Platinum,Sapphire,67000,https://images.unsplash.com/photo-1602173574767-37ac9d2f8e6c?w=600&auto=format
+Ladies,Ring,Ruby Cascade,Heart-shaped ruby with diamond accents,18k Rose Gold,Ruby,38500,https://images.unsplash.com/photo-1605100804763-247f2b7d1c5b?w=600&auto=format
+Ladies,Ring,Emerald Eternity,Full-eternity emerald and diamond band,18k White Gold,Emerald,29500,https://images.unsplash.com/photo-1605100804763-247f2b7d1c5b?w=600&auto=format
+Ladies,Ring,Three-Stone Legacy,Classic trilogy diamond ring,Platinum,Diamond (2.1ct),38500,https://images.unsplash.com/photo-1605100804763-247f2b7d1c5b?w=600&auto=format
+Ladies,Ring,Twist of Gold,Interwoven gold bands with diamond accents,18k Yellow Gold,Diamond,12400,https://drive.google.com/drive/folders/1g2yBC2w_tuWhcNyN9pwW47QgcbSMJQrp,Ring,Pearl Bloom,Oriental pearl set in diamond foliage,Platinum,Pearl,28900,https://images.unsplash.com/photo-1605100804763-247f2b7d1c5b?w=600&auto=format
+Ladies,Ring,Cocktail Citrine,Statement citrine with pavé diamonds,14k Rose Gold,Citrine,8900,https://images.unsplash.com/photo-1605100804763-247f2b7d1c5b?w=600&auto=format
+Ladies,Ring,Amethyst Aura,Deep purple amethyst in vintage setting,18k White Gold,Amethyst,7200,https://images.unsplash.com/photo-1605100804763-247f2b7d1c5b?w=600&auto=format
+Ladies,Ring,Infinity Knot,Dual-tone infinity ring with diamonds,18k Rose/White Gold,Diamond,16800,https://images.unsplash.com/photo-1605100804763-247f2b7d1c5b?w=600&auto=format
+Ladies,Ring,The Duchess,Vintage-inspired filigree ring with old-cut diamond,Platinum,Diamond (1.5ct),72000,https://images.unsplash.com/photo-1605100804763-247f2b7d1c5b?w=600&auto=format
+Ladies,Ring,Secret Garden,Engraved band with hidden ruby,18k Yellow Gold,Ruby,6300,https://images.unsplash.com/photo-1605100804763-247f2b7d1c5b?w=600&auto=format
+Ladies,Ring,Opal Dream,Floating opal with diamond halo,18k White Gold,Opal,21300,https://images.unsplash.com/photo-1605100804763-247f2b7d1c5b?w=600&auto=format
+Ladies,Ring,Peridot Sun,Peridot cluster ring with yellow gold,14k Yellow Gold,Peridot,5600,https://images.unsplash.com/photo-1605100804763-247f2b7d1c5b?w=600&auto=format
+Ladies,Ring,Pink Sapphire Ribbon,Twisted band with pink sapphires,18k Rose Gold,Pink Sapphire,18400,https://images.unsplash.com/photo-1605100804763-247f2b7d1c5b?w=600&auto=format
+Ladies,Ring,The Crescent,Moon-shaped diamond ring,Platinum,Diamond,45200,https://images.unsplash.com/photo-1605100804763-247f2b7d1c5b?w=600&auto=format
+Ladies,Ring,Zenith Band,Simple geometric band with baguette diamonds,18k White Gold,Diamond,11200,https://images.unsplash.com/photo-1605100804763-247f2b7d1c5b?w=600&auto=format
+Ladies,Ring,Toi et Moi,Two-stone ring with emerald and diamond,18k Yellow Gold,Emerald & Diamond,33200,https://images.unsplash.com/photo-1605100804763-247f2b7d1c5b?w=600&auto=format
+Ladies,Ring,The Majestic,High-domed cocktail ring with sapphire cluster,Platinum,Sapphire,95000,https://images.unsplash.com/photo-1605100804763-247f2b7d1c5b?w=600&auto=format
+Ladies,Ring,Enlace Knot,Platinum knot ring with diamonds,Platinum,Diamond,21900,https://images.unsplash.com/photo-1605100804763-247f2b7d1c5b?w=600&auto=format
+Gents,Ring,The Rajah Signet,Heavy gold signet with emerald cabochon,22k Yellow Gold,Emerald,32000,https://images.unsplash.com/photo-1607853202273-797f1c22a38e?w=600&auto=format
+Gents,Ring,The Commander,Black ceramic and diamond band,18k White Gold,Diamond,14200,https://images.unsplash.com/photo-1607853202273-797f1c22a38e?w=600&auto=format
+Gents,Ring,The Baron,Two-tone gold ring with onyx inlay,18k Yellow/White Gold,Onyx,8300,https://images.unsplash.com/photo-1607853202273-797f1c22a38e?w=600&auto=format
+Gents,Ring,The Duke,Platinum ring with channel-set diamonds,Platinum,Diamond,27800,https://images.unsplash.com/photo-1607853202273-797f1c22a38e?w=600&auto=format
+Gents,Ring,The Squire,Textured gold band with single diamond,18k Yellow Gold,Diamond,5500,https://images.unsplash.com/photo-1607853202273-797f1c22a38e?w=600&auto=format
+Gents,Ring,The Knight,Brushed finish titanium with carbon fiber,Titanium,Carbon,3100,https://images.unsplash.com/photo-1607853202273-797f1c22a38e?w=600&auto=format
+Gents,Ring,The Emperor,Extra-wide yellow gold ring with sapphire,22k Yellow Gold,Sapphire,49500,https://images.unsplash.com/photo-1607853202273-797f1c22a38e?w=600&auto=format
+Gents,Ring,The Statesman,Platinum ring with blue sapphire accents,Platinum,Sapphire,21400,https://images.unsplash.com/photo-1607853202273-797f1c22a38e?w=600&auto=format
+Gents,Ring,The Diplomat,Two-tone ring with geometric pattern,18k Rose/White Gold,None,4700,https://images.unsplash.com/photo-1607853202273-797f1c22a38e?w=600&auto=format
+Gents,Ring,The Governor,Signet with family crest engraving,18k Yellow Gold,None,11200,https://images.unsplash.com/photo-1607853202273-797f1c22a38e?w=600&auto=format
+Ladies,Ring,Celestial Band,Micro-pavé diamond half-eternity,Platinum,Diamond,18900,https://images.unsplash.com/photo-1605100804763-247f2b7d1c5b?w=600&auto=format
+Ladies,Ring,Blossom Ring,Daisy-shaped ring with diamond center,18k White Gold,Diamond,8300,https://images.unsplash.com/photo-1605100804763-247f2b7d1c5b?w=600&auto=format
+Ladies,Ring,Etoile Filante,Shooting star design with sapphire trail,18k Rose Gold,Sapphire,14300,https://images.unsplash.com/photo-1605100804763-247f2b7d1c5b?w=600&auto=format
+Ladies,Ring,Feather Light,Delicate feather-motif ring with diamonds,18k White Gold,Diamond,9700,https://images.unsplash.com/photo-1605100804763-247f2b7d1c5b?w=600&auto=format
+Ladies,Ring,Nocturnal,Black diamond in rose gold setting,18k Rose Gold,Black Diamond,32500,https://images.unsplash.com/photo-1605100804763-247f2b7d1c5b?w=600&auto=format
+Ladies,Ring,Paloma,Solitaire with split shank,Platinum,Diamond,47300,https://images.unsplash.com/photo-1605100804763-247f2b7d1c5b?w=600&auto=format
+Ladies,Ring,Riviera,Five-row diamond band,Platinum,Diamond,57000,https://images.unsplash.com/photo-1605100804763-247f2b7d1c5b?w=600&auto=format
+Ladies,Ring,Trinity,Three interlocking gold bands,18k Tri-color,None,6500,https://images.unsplash.com/photo-1605100804763-247f2b7d1c5b?w=600&auto=format
+Ladies,Ring,Whisper,Thin diamond line in platinum,Platinum,Diamond,22000,https://images.unsplash.com/photo-1605100804763-247f2b7d1c5b?w=600&auto=format
+Ladies,Ring,Azur,Milgrain edge with aquamarine,18k White Gold,Aquamarine,9700,https://images.unsplash.com/photo-1605100804763-247f2b7d1c5b?w=600&auto=format
+Gents,Ring,The Admiral,Blue sapphire trilogy,18k White Gold,Sapphire,19300,https://images.unsplash.com/photo-1607853202273-797f1c22a38e?w=600&auto=format
+Gents,Ring,The Captain,Chiseled finish band with ruby accent,18k Yellow Gold,Ruby,7300,https://images.unsplash.com/photo-1607853202273-797f1c22a38e?w=600&auto=format
+Gents,Ring,The Judge,Heavy platinum band with baguette diamonds,Platinum,Diamond,68000,https://images.unsplash.com/photo-1607853202273-797f1c22a38e?w=600&auto=format
+Gents,Ring,The Counselor,Comfort-fit titanium with wood inlay,Titanium,Wood,2100,https://images.unsplash.com/photo-1607853202273-797f1c22a38e?w=600&auto=format
+Gents,Ring,The Senator,Gold nugget finish ring,18k Yellow Gold,None,5700,https://images.unsplash.com/photo-1607853202273-797f1c22a38e?w=600&auto=format
+Gents,Ring,The Ambassador,Hammered white gold with sapphire,18k White Gold,Sapphire,9800,https://images.unsplash.com/photo-1607853202273-797f1c22a38e?w=600&auto=format
+Gents,Ring,The Consul,Square-cut emerald in stepped setting,18k Yellow Gold,Emerald,40200,https://images.unsplash.com/photo-1607853202273-797f1c22a38e?w=600&auto=format
+Gents,Ring,The Prefect,Classic gold band with diamond,14k Yellow Gold,Diamond,3200,https://images.unsplash.com/photo-1607853202273-797f1c22a38e?w=600&auto=format
+Gents,Ring,The Tribune,Black zirconium with red stripe,Zirconium,Zirconium,2800,https://images.unsplash.com/photo-1607853202273-797f1c22a38e?w=600&auto=format
+Gents,Ring,The Legate,Platinum signet with diamond star,Platinum,Diamond,22400,https://images.unsplash.com/photo-1607853202273-797f1c22a38e?w=600&auto=format
+Ladies,Ring,Marquise Eternity,Marquise diamond band,Platinum,Diamond,62000,https://images.unsplash.com/photo-1605100804763-247f2b7d1c5b?w=600&auto=format
+Ladies,Ring,Rhapsody,Pear-shaped diamond with baguettes,18k White Gold,Diamond,54000,https://images.unsplash.com/photo-1605100804763-247f2b7d1c5b?w=600&auto=format
+Ladies,Ring,Enchanted,Flower cluster with tsavorite,18k Yellow Gold,Tsavorite,14200,https://images.unsplash.com/photo-1605100804763-247f2b7d1c5b?w=600&auto=format
+Ladies,Ring,Cameo,Victorian cameo in gold frame,18k Rose Gold,Cameo,3900,https://images.unsplash.com/photo-1605100804763-247f2b7d1c5b?w=600&auto=format
+Ladies,Ring,Starburst,Radiant-cut diamond with micro-pavé,Platinum,Diamond,83000,https://images.unsplash.com/photo-1605100804763-247f2b7d1c5b?w=600&auto=format
+Ladies,Ring,Gardenia,Openwork floral ring with diamonds,18k White Gold,Diamond,12800,https://images.unsplash.com/photo-1605100804763-247f2b7d1c5b?w=600&auto=format
+Ladies,Ring,Indigo,Sapphire and diamond halo,18k White Gold,Sapphire,32100,https://images.unsplash.com/photo-1605100804763-247f2b7d1c5b?w=600&auto=format
+Ladies,Ring,Midsummer,Multicolor gemstone band,18k Yellow Gold,Ruby/Sapphire/Emerald,15700,https://images.unsplash.com/photo-1605100804763-247f2b7d1c5b?w=600&auto=format
+Ladies,Ring,Alhambra,Clover motif with mother of pearl,18k Yellow Gold,Mother of Pearl,8800,https://images.unsplash.com/photo-1605100804763-247f2b7d1c5b?w=600&auto=format
+Ladies,Ring,Nocturne,Onyx and diamond cocktail ring,18k White Gold,Onyx,9800,https://images.unsplash.com/photo-1605100804763-247f2b7d1c5b?w=600&auto=format
